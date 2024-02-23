@@ -1,3 +1,4 @@
+#Requires AutoHotkey v2.0-a
 CapsLock & a::Left
 CapsLock & s::Down
 CapsLock & d::Right
